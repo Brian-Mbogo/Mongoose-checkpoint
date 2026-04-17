@@ -23,4 +23,4 @@ Functions exported in `server.js` for testing (e.g., Mocha/Chai).
 ## Functions
 See `server.js` comments. Exported: createAndSavePerson, createManyPeople, etc.
 
-Pushed to GitHub: https://github.com/Brian-Mbogo/Mongoose-checkpoint
+
